@@ -36,11 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<!-- TODO: Replace the line below with your own GIF. Record with LICEcap, Kap, or ScreenToGif, then drag the file into this README on GitHub. -->
-
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with ...
+<img src='veni.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 ## Notes
 
